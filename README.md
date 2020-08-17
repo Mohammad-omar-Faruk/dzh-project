@@ -1,13 +1,13 @@
 
-Für diese Project, Wenn Sie Live View sehen möchten. Klicken Sie unter der Link.
+# Wenn Sie Live View sehen möchten. Klicken Sie diese Link.
+
 https://dzh-project.000webhostapp.com/
 
 
-Wie kann ich diese Projekt Installieren und anschauen?
-
-# folgenden Punke benötigen Sie für Installationen:
+# folgenden Punke benötigen Sie für Installationen und in localhost anschauen:
 
 ```` 1. Zu erst laden sie runter von diese Github link als Zip Format ````
+
       https://github.com/Mohammad-omar-Faruk/dzh-project.git
 
 ```` 2. Danach machen Sie UnZip und öffnen Sie unzip Ordner in einer Entwicklungs Tools z.B VS CODE ````
