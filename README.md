@@ -7,7 +7,6 @@ https://dzh-project.000webhostapp.com/
 # folgenden Punke benötigen Sie für Installationen und in localhost anschauen:
 
 ```` 1. Zu erst laden sie runter von diese Github link als Zip Format ````
-
       https://github.com/Mohammad-omar-Faruk/dzh-project.git
 
 ```` 2. Danach machen Sie UnZip und öffnen Sie unzip Ordner in einer Entwicklungs Tools z.B VS CODE ````
