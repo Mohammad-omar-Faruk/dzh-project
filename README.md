@@ -1,11 +1,11 @@
 
-# Wenn Sie Live View sehen möchten. Klicken Sie diese Link.
+# Wenn Sie diese Projekt Live sehen möchten. Klicken Sie unter Link.
 
 https://dzh-project.000webhostapp.com/
 
-# Technologien: HTML5, CSS3, JavaScript, Bootstrap, PHP, MySql, Laravel, MapBox API.
+Technologien: HTML5, CSS3, JavaScript, Bootstrap, PHP, MySql, Laravel, MapBox API.
 
-# folgenden Punke benötigen Sie für Installationen und in localhost anschauen:
+# folgenden Punken benötigen Sie für Installationen:
 
 ```` 1. Zu erst laden sie runter von diese Github link als Zip Format ````
       https://github.com/Mohammad-omar-Faruk/dzh-project.git
