@@ -32,7 +32,7 @@ in .env Datei Schreiben Sie hier Ihre Mysql Datenbank name
 ```` php artisan serve ````
 
 
-in Diese Projekt finden Sie folgender Funktionalitäten zur Verfügung:
+# in Diese Projekt finden Sie folgender Funktionalitäten zur Verfügung:
 
   1. Ich kann in einer Tabelle nach dem Namen einer Krankenkasse suchen
 (Freitext)
