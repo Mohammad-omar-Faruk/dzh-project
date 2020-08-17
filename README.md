@@ -3,6 +3,7 @@
 
 https://dzh-project.000webhostapp.com/
 
+# Technologien: HTML5, CSS3, JavaScript, Bootstrap, PHP, MySql, Laravel, MapBox API.
 
 # folgenden Punke benötigen Sie für Installationen und in localhost anschauen:
 
